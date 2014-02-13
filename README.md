@@ -49,3 +49,8 @@ dog's back.
 > This is the second paragraph in the blockquote.
 >
 > ## This is an H2 in a blockquote
+
+MD 檔案編輯方式
+====================
+
+*[DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
