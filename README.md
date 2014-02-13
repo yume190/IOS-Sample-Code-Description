@@ -53,4 +53,6 @@ dog's back.
 MD 檔案編輯方式
 ====================
 
-*[DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
+ * [DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
+ * [arkdown: Basics （快速入门）大陸網站](http://wowubuntu.com/markdown/basic.html)
+ * [example / GUIDE.md 另一個大陸人寫的](https://github.com/NetEase/example/blob/master/GUIDE.md)
