@@ -13,6 +13,9 @@ Edit by yume190
 Q1 : <a href = ".">Poker OCR</a><br>
 </p>
 
+example - a Short Description 
+=============================
+
 This is an example project, aim to be a reference of how project source code and document should be organized.
 
  * Homepage: <http://netease.github.com/projectname>
