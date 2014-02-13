@@ -9,6 +9,15 @@ MD 檔案編輯方式
  * [DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
  * [arkdown: Basics （快速入门）大陸網站](http://wowubuntu.com/markdown/basic.html)
  * [example / GUIDE.md 另一個大陸人寫的](https://github.com/NetEase/example/blob/master/GUIDE.md)
+ 
+一些XP文章
+====================
+
+ * [SOUL & SHELL BLOG:軟體開發之極限編程(極限開發) eXtreme Programming, XP](http://blog.toright.com/archives/697)
+ * [The Rules of Extreme Programming](http://www.extremeprogramming.org/rules.html)
+ * [Extreme Programming](http://c2.com/cgi/wiki?ExtremeProgramming) 
+ * [Trend Watching ~~:XP（eXtreme Programming，極限編程）](http://trend-collect.blogspot.tw/2008/06/xpextreme-programming.html)
+ * [Extreme Programming:大陸網站](http://www.baike.com/wiki/Extreme+Programming)
 
 
 Test用 A First Level Header
