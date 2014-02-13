@@ -3,35 +3,15 @@ IOS-Sample-Code-Description
 
 ＩＯＳ範例程式的功能介紹
 
+MD 檔案編輯方式
+====================
 
-## test
+ * [DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
+ * [arkdown: Basics （快速入门）大陸網站](http://wowubuntu.com/markdown/basic.html)
+ * [example / GUIDE.md 另一個大陸人寫的](https://github.com/NetEase/example/blob/master/GUIDE.md)
 
-Edit by yume190
 
-## Questions : 
-<p align="center">
-Q1 : <a href = ".">Poker OCR</a><br>
-</p>
-
-example - a Short Description 
-=============================
-
-This is an example project, aim to be a reference of how project source code and document should be organized.
-
- * Homepage: <http://netease.github.com/projectname>
- * Mailing list: <https://groups.google.com/group/projectname>
- * Documentation: <http://projectname.readthedocs.org>
- * Wiki: <https://github.com/netease/projectname/wiki/>
- * Issues: <https://github.com/netease/projectname/issues/>
- * Tags: java, spring
- 
- * 煒峻 林 <yume190@gmail.com> <twitter:@yume190> <twitter:#foo-list> <weibo:@foo> <github:yume190> <linkedin:foo> <http://foo.com>
-
-    Biography about the author, in paragraph format. Hyperlink like http://example.com can be used here.
-
-    Second paragraph.
-
-A First Level Header
+Test用 A First Level Header
 ====================
 A Second Level Header
 ---------------------
@@ -50,9 +30,3 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
-MD 檔案編輯方式
-====================
-
- * [DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
- * [arkdown: Basics （快速入门）大陸網站](http://wowubuntu.com/markdown/basic.html)
- * [example / GUIDE.md 另一個大陸人寫的](https://github.com/NetEase/example/blob/master/GUIDE.md)
