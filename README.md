@@ -1,0 +1,29 @@
+IOS-Sample-Code-Description
+===========================
+
+ＩＯＳ範例程式的功能介紹
+
+
+## test
+
+Edit by yume190
+
+## Questions : 
+<p align="center">
+Q1 : <a href = ".">Poker OCR</a><br>
+</p>
+
+This is an example project, aim to be a reference of how project source code and document should be organized.
+
+ * Homepage: <http://netease.github.com/projectname>
+ * Mailing list: <https://groups.google.com/group/projectname>
+ * Documentation: <http://projectname.readthedocs.org>
+ * Wiki: <https://github.com/netease/projectname/wiki/>
+ * Issues: <https://github.com/netease/projectname/issues/>
+ * Tags: java, spring
+ 
+ * 煒峻 林 <yume190@gmail.com> <twitter:@yume190> <twitter:#foo-list> <weibo:@foo> <github:yume190> <linkedin:foo> <http://foo.com>
+
+    Biography about the author, in paragraph format. Hyperlink like http://example.com can be used here.
+
+    Second paragraph.
