@@ -2,6 +2,18 @@ IOS-Sample-Code-Description
 ===========================
 
 ＩＯＳ範例程式的功能介紹
+#黃皓煜
+ *	[simpleUndo](simpleUndo)
+ *	[laztTableImages](laztTableImages)
+ *	[motionGraphs](motionGraphs)
+ * [UsingUIImagePicker to select Pictures and Take Photos](UsingUIImagePicker to select Pictures and Take Photos)
+#
+ *	[MapCallouts](MapCallouts)	
+ *	[MultipleDetailViews](MultipleDetailViews)
+ *	[NavBar](NavBar)
+ *	[Regions](Regions)
+ *	[Tabster](Tabster)
+
 
 MD 檔案編輯方式
 ====================
