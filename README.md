@@ -8,6 +8,12 @@ IOS-Sample-Code-Description
  * [NavBar](NavBar)
  * [Regions](Regions)
 
+######王建翔
+ * [Breadcrumb](Breadcrumb)
+ * [CustomContentAccessibility](CustomContentAccessibility)
+ * [GLAirplay](GLAirplay)
+ * [StateRestoreChildViews](StateRestoreChildViews)
+
 ######林煒峻
  *	[Tabster](Tabster)
  *	[MultipleDetailViews](MultipleDetailViews)
