@@ -2,12 +2,17 @@ IOS-Sample-Code-Description
 ===========================
 
 ＩＯＳ範例程式的功能介紹
-#黃皓煜
+######貢獻者
+####
+####黃皓煜
  *	[simpleUndo](simpleUndo)
  *	[laztTableImages](laztTableImages)
  *	[motionGraphs](motionGraphs)
  * [UsingUIImagePicker to select Pictures and Take Photos](UsingUIImagePicker to select Pictures and Take Photos)
-#
+
+#### xxx
+ 
+#contribute
  *	[MapCallouts](MapCallouts)	
  *	[MultipleDetailViews](MultipleDetailViews)
  *	[NavBar](NavBar)
