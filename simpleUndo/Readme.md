@@ -1,16 +1,16 @@
 <img src="pic1.png"><br>
-����Table view �i�H�s���@���T�CTitle�BAuthor�BCopyright�C
+有個Table view 可以編輯共有三列Title、Author、Copyright。
 <img src="pic2.png"><br>
-���UEdit���i�H�U�۶i���s���C
+按下Edit鍵可以各自進行編輯。
 <img src="pic3.png"><br>
-��Title���e���C
+改Title的畫面。
 <img src="pic4.png"><br>
-�粒����Save�����^�Ӫ��D�e���C
+改完後按Save鍵後回來的主畫面。
 <img src="pic5.png"><br>
-Author���s���e���C
+Author的編輯畫面。
 <img src="pic6.png"><br>
-�@�˫�Save���᪺�D�e���C
+一樣按Save之後的主畫面。
 <img src="pic7.png"><br>
-Copyright Date���s���e���L�O�HPICKER�����k�U�h���s�誺�C
+Copyright Date的編輯畫面他是以PICKER的方法下去做編輯的。
 <img src="pic8.png"><br>
-����Save���D�e���̫����UDone���N�|���x�s�C
+按完Save的主畫面最後按下Done鍵就會做儲存。
