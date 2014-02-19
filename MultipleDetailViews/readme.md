@@ -1,20 +1,13 @@
-Tab上面放Tableview
-<br>
+MultipleDetailViews
+==========
+ * 原始畫面
+ * 點選左上Navigation或向右滑動，左方會推出TableView如圖二
 <img src="1.png">
 <br>
-設定的數字，會顯示在Tab上(而且數字會儲存，下次開還會顯示)
-<br>
+ * 圖二
 <img src="2.png">
 <br>
-數字型鍵盤
+ * 點選TableView的Item後，主要畫面會更改
 <br>
 <img src="3.png">
-<br>
-按Edit推出新畫面(下圖)
-<br>
-<img src="4.png">
-<br>
-可以拖至Tab處,然後交換
-<br>
-<img src="6.png">
 <br>
