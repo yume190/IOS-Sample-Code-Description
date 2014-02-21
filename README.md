@@ -27,6 +27,7 @@ IOS-Sample-Code-Description
 MD 檔案編輯方式
 ====================
 
+ * [MD CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [DARING FIREBALL](http://daringfireball.net/projects/markdown/syntax)
  * [arkdown: Basics （快速入门）大陸網站](http://wowubuntu.com/markdown/basic.html)
  * [example / GUIDE.md 另一個大陸人寫的](https://github.com/NetEase/example/blob/master/GUIDE.md)
